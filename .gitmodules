@@ -1,0 +1,4 @@
+[submodule "deepshikhaksolves/erp_pm"]
+	path = deepshikhaksolves/erp_pm
+	url = git@github.com:deepshikhaksolves/erp_pm.git
+	branch = main
