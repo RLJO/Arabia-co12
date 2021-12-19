@@ -1,0 +1,104 @@
+[submodule "apps-store"]
+	path = apps-store
+	url = https://github.com/OCA/apps-store.git
+	branch = 14.0
+[submodule "data-protection"]
+	path = data-protection
+	url = https://github.com/OCA/data-protection.git
+	branch = 14.0
+[submodule "ddmrp"]
+	path = ddmrp
+	url = https://github.com/OCA/ddmrp.git
+	branch = 14.0
+[submodule "dms"]
+	path = dms
+	url = https://github.com/OCA/dms.git
+	branch = 14.0
+[submodule "donation"]
+	path = donation
+	url = https://github.com/OCA/donation.git
+	branch = 14.0
+[submodule "edi"]
+	path = edi
+	url = https://github.com/OCA/edi.git
+	branch = 14.0
+[submodule "interface-github"]
+	path = interface-github
+	url = https://github.com/OCA/interface-github.git
+	branch = 14.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+	branch = 14.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/OCA/knowledge.git
+	branch = 14.0
+[submodule "management-system"]
+	path = management-system
+	url = https://github.com/OCA/management-system.git
+	branch = 14.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 14.0
+[submodule "Oca-custom"]
+	path = Oca-custom
+	url = https://github.com/OCA/Oca-custom.git
+	branch = 14.0
+[submodule "pms"]
+	path = pms
+	url = https://github.com/OCA/pms.git
+	branch = 14.0
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue.git
+	branch = 14.0
+[submodule "report-print-send"]
+	path = report-print-send
+	url = https://github.com/OCA/report-print-send.git
+	branch = 14.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 14.0
+[submodule "rma"]
+	path = rma
+	url = https://github.com/OCA/rma.git
+	branch = 14.0
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/OCA/server-auth.git
+	branch = 14.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend.git
+	branch = 14.0
+[submodule "server-brand"]
+	path = server-brand
+	url = https://github.com/OCA/server-brand.git
+	branch = 14.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 14.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/OCA/vertical-association.git
+	branch = 14.0
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = 14.0
+[submodule "website"]
+	path = website
+	url = https://github.com/OCA/website.git
+	branch = 14.0
+[submodule "wms"]
+	path = wms
+	url = https://github.com/OCA/wms.git
+	branch = 14.0
