@@ -112,3 +112,8 @@
 	path = brendanmyfishapp/myfishapp
 	url = git@github.com:brendanmyfishapp/myfishapp.git
 	branch = 14.0
+
+[submodule "loyalcomps/Demo"]
+	path = loyalcomps/Demo
+	url = git@github.com:loyalcomps/Demo.git
+	branch = master
