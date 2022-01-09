@@ -107,3 +107,8 @@
 	path = Ingeniohld/lance
 	url = git@github.com:Ingeniohld/lance.git
 	branch = main
+
+[submodule "brendanmyfishapp/myfishapp"]
+	path = brendanmyfishapp/myfishapp
+	url = git@github.com:brendanmyfishapp/myfishapp.git
+	branch = 14.0
