@@ -102,3 +102,8 @@
 	path = wms
 	url = https://github.com/OCA/wms.git
 	branch = 14.0
+
+[submodule "Ingeniohld/lance"]
+	path = Ingeniohld/lance
+	url = git@github.com:Ingeniohld/lance.git
+	branch = main
